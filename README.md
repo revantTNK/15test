@@ -1,4 +1,4 @@
-# itlwm — DexterSLamb fork
+# itlwm — DexterSLamb for
 
 > **Fork-specific change**: this fork patches `AirportItlwm` to fix the
 > iServices breakage (iMessage / FaceTime / AirDrop / Continuity refusing
